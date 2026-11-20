@@ -1,0 +1,8 @@
+{
+  "pages": [],
+  "api": [
+    { "path": "/api/users", "methods": ["GET"] },
+    { "path": "/api/signup", "methods": ["POST"] },
+    { "path": "/api/health", "methods": ["GET"] }
+  ]
+}

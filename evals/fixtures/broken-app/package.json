@@ -1,0 +1,8 @@
+{
+  "name": "broken-app",
+  "private": true,
+  "description": "Deliberately broken demo app used to test the break-my-app skill.",
+  "scripts": {
+    "dev": "node server.js"
+  }
+}
