@@ -1,7 +1,9 @@
-# break-my-app
+# break-my-app: AI QA testing skill for Claude Code and coding agents
 
-An agent skill that attacks your local web app the way real users and strangers on the
-internet will, then proves every failure with a screenshot and a failing Playwright test.
+**Find the bugs in your vibe-coded app before launch.** break-my-app is an agent skill for
+automated QA testing: it attacks your local web app the way real users and strangers on
+the internet will, then proves every bug with a screenshot and a failing Playwright
+end-to-end test.
 
 Your app looks fine. Then someone double-clicks Submit, leaves a field blank, opens it on a
 phone, loses signal on the train, or pokes at `/api/users` with curl. This skill does all of
